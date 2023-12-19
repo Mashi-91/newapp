@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223059462075",
+    "project_id": "newscard-795e6",
+    "storage_bucket": "newscard-795e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223059462075:android:520ac024e7dec429e4e69e",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqc0GRcddKct02l_5fJfgaoTFvjShRsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
